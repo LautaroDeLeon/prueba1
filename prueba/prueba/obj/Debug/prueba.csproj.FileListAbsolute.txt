@@ -1,0 +1,8 @@
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\obj\Debug\prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\pipi2\OneDrive\Escritorio\Programacion lll\prueba\prueba\obj\Debug\prueba.pdb
